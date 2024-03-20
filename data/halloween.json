@@ -6,12 +6,12 @@
             {
                 "id": 1,
                 "title": "Vrai",
-                "correct": true
+                "correct": false
             },
             {
                 "id": 2,
                 "title": "Faux",
-                "correct": false
+                "correct": true
             }
         ]
     },
